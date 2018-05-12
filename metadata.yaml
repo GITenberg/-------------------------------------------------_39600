@@ -1,0 +1,27 @@
+_repo: '-------------------------------------------------_39600'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39600-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Papantoniou, Ch.
+    aliases:
+    - Papantoniou, Charilaos
+    - Παπαντωνίου, Χαρίλαος
+    gutenberg_agent_id: '37298'
+    url: http://www.gutenberg.org/2009/agents/37298
+description: ''
+gutenberg_issued: '2012-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39600'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'John I Tzimisces, Emperor of the East, 925-976'
+title: 'Ελληνική Εποποιία, Ο Εωσφόρος: [Ιωάννης Τσιμισκής]'
+url: http://www.gutenberg.org/ebooks/39600
