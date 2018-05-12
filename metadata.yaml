@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37298'
     url: http://www.gutenberg.org/2009/agents/37298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39600#-------------------------------------------------
 gutenberg_issued: '2012-05-03'
 gutenberg_type: Text
 identifiers:
